@@ -1,8 +1,8 @@
 # Data Exploratory Project
 
 ## Overview
-This project focuses on exploratory data analysis (EDA) using SQL Server on a retail sales data warehouse.
-The goal of the project is to analyze customer behavior, product performance, sales trends, and business KPIs using SQL queries.
+- This project focuses on exploratory data analysis (EDA) using SQL Server on a retail sales data warehouse.
+- The goal of the project is to analyze customer behavior, product performance, sales trends, and business KPIs using SQL queries.
 
 ---
 
@@ -11,7 +11,7 @@ The goal of the project is to analyze customer behavior, product performance, sa
 1. Fact Table : gold.fact_sales
 2. Dimension Tables : gold.dim_customers, gold.dim_products
 
-This project demonstrates practical SQL skills commonly used in:
+- This project demonstrates practical SQL skills commonly used in:
 
 1. Data Analytics
 2. Business Intelligence
