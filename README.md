@@ -8,11 +8,11 @@ The goal of the project is to analyze customer behavior, product performance, sa
 
 ### The database follows a star schema model with:
 
-Fact Table
-gold.fact_sales
-Dimension Tables
-gold.dim_customers
-gold.dim_products
+1. Fact Table
+    gold.fact_sales
+2. Dimension Tables
+    gold.dim_customers
+    gold.dim_products
 
 This project demonstrates practical SQL skills commonly used in:
 
