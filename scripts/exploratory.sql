@@ -1,8 +1,9 @@
 /* 
-Purpose : Exploring the dataset and tables to answer business questions.
-          Aggrigated the data through countries, customers, and 
-		  products to find the top performing and least performing 
-		  customers and products.
+Purpose : Explored and analyzed datasets and tables to answer 
+		  key business questions and uncover actionable insights.
+
+          Aggregated data across countries, customers, and products
+		  to identify top-performing and underperforming customers and products.
 */
 
 -- Explore all objects in the database
