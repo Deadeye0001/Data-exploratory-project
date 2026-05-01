@@ -5,7 +5,8 @@ This project focuses on exploratory data analysis (EDA) using SQL Server on a re
 The goal of the project is to analyze customer behavior, product performance, sales trends, and business KPIs using SQL queries.
 
 ---
-The database follows a star schema model with:
+
+### The database follows a star schema model with:
 
 Fact Table
 gold.fact_sales
