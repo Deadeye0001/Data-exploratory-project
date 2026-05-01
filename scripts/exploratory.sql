@@ -1,8 +1,7 @@
 /* 
-Purpose : Checking the data to answer business questions.
+Purpose : Exploring the data to answer business questions.
           Aggrigated the data through countries, costomers,
           products.
-          Found the top customers, top products etc.
 */
 
 -- Explore all objects in the database
