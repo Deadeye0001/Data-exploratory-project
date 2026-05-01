@@ -1,7 +1,7 @@
 /* 
 Purpose : Exploring the dataset and tables to answer business questions.
-          Aggrigated the data through countries, costomers,
-          products to find the top performing and least performing 
+          Aggrigated the data through countries, customers, and 
+		  products to find the top performing and least performing 
 		  customers and products.
 */
 
