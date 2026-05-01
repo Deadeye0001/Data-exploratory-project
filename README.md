@@ -48,14 +48,14 @@
 
 ### The project answers important business questions such as:
 
-What are the total sales and total orders?
-Which products generate the highest revenue?
-Which countries contribute the most sales?
-Who are the top customers?
-What is the age range of customers?
-Which products perform poorly?
-What is the sales distribution across categories?
-SQL Concepts Used
+-What are the total sales and total orders?
+-Which products generate the highest revenue?
+-Which countries contribute the most sales?
+-Who are the top customers?
+-What is the age range of customers?
+-Which products perform poorly?
+-What is the sales distribution across categories?
+-SQL Concepts Used
 
 ---
 
