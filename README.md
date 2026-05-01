@@ -11,6 +11,8 @@ The goal of the project is to analyze customer behavior, product performance, sa
 1. Fact Table : gold.fact_sales
 2. Dimension Tables : gold.dim_customers, gold.dim_products
 
+---
+
 ### This project demonstrates practical SQL skills commonly used in:
 
 Data Analytics
