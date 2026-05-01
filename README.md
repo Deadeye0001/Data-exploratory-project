@@ -1,4 +1,4 @@
-Retail Sales Data Exploration Project
+# Data Exploratory Project
 Overview
 
 This project focuses on exploratory data analysis (EDA) using SQL Server on a retail sales data warehouse.
