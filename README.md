@@ -11,40 +11,38 @@ The goal of the project is to analyze customer behavior, product performance, sa
 1. Fact Table : gold.fact_sales
 2. Dimension Tables : gold.dim_customers, gold.dim_products
 
----
+This project demonstrates practical SQL skills commonly used in:
 
-### This project demonstrates practical SQL skills commonly used in:
-
-Data Analytics
-Business Intelligence
-Reporting
+1. Data Analytics
+2. Business Intelligence
+3. Reporting
 
 ---
 
 ### Contains transactional sales data:
 
-Order details
-Product purchases
-Revenue
-Quantity sold
-Dimension Tables
-gold.dim_customers
+- Order details
+- Product purchases
+- Revenue
+- Quantity sold
+- Dimension Tables
+- gold.dim_customers
 
 ### Contains customer-related information:
 
-Customer names
-Gender
-Country
-Birth date
-gold.dim_products
+- Customer names
+- Gender
+- Country
+- Birth date
+- gold.dim_products
 
-Contains product-related information:
+### Contains product-related information:
 
-Product names
-Categories
-Subcategories
-Product cost
-Project Objectives
+- Product names
+- Categories
+- Subcategories
+- Product cost
+- Project Objectives
 
 ---
 
