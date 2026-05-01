@@ -111,10 +111,10 @@ CAST()
 
 ### Some example business insights obtained from the analysis:
 
-Certain product categories contribute significantly more revenue.
-A small number of customers generate a large percentage of total sales.
-Sales distribution varies heavily by country.
-Some products consistently underperform and may require review.
+- Certain product categories contribute significantly more revenue.
+- A small number of customers generate a large percentage of total sales.
+- Sales distribution varies heavily by country.
+- Some products consistently underperform and may require review.
 
 ---
 
