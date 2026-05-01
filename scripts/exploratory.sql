@@ -1,7 +1,8 @@
 /* 
-Purpose : Exploring the data to answer business questions.
+Purpose : Exploring the dataset and tables to answer business questions.
           Aggrigated the data through countries, costomers,
-          products.
+          products to find the top performing and least performing 
+		  customers and products.
 */
 
 -- Explore all objects in the database
