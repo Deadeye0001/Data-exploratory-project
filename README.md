@@ -1,6 +1,6 @@
 # Data Exploratory Project
-Overview
 
+## Overview
 This project focuses on exploratory data analysis (EDA) using SQL Server on a retail sales data warehouse.
 The goal of the project is to analyze customer behavior, product performance, sales trends, and business KPIs using SQL queries.
 
