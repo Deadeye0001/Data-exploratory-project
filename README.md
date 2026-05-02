@@ -154,35 +154,6 @@ Products are categorized based on total revenue generated.
 
 ---
 
-## Aggregations
-- `SUM()`
-- `AVG()`
-- `COUNT()`
-- `MIN()`
-- `MAX()`
-- `GROUP BY`
-- `HAVING`
-
----
-
-## Joins
-- `INNER JOIN`
-- `LEFT JOIN`
-
----
-
-## Advanced SQL Concepts
-- Common Table Expressions (CTEs)
-- Views
-- Analytical Reporting
-- Business KPI Calculations
-- Data Transformation
-- Window Functions
-- Ranking Functions
-- Stored Procedures
-
----
-
 # Functions Used
 
 | Function | Purpose |
@@ -196,6 +167,18 @@ Products are categorized based on total revenue generated.
 | `ROUND()` | Decimal formatting |
 | `NULLIF()` | Prevent divide-by-zero errors |
 | `CONCAT()` | Full name generation |
+
+---
+
+## Advanced SQL Concepts
+- Common Table Expressions (CTEs)
+- Views
+- Analytical Reporting
+- Business KPI Calculations
+- Data Transformation
+- Window Functions
+- Ranking Functions
+- Stored Procedures
 
 ---
 
@@ -239,23 +222,6 @@ FROM yearly_product_sales;
 
 ---
 
-# Data Engineering & Reporting Practices
-
-## Data Cleaning
-- Removed records with NULL order dates
-- Prevented divide-by-zero errors using `NULLIF()`
-
----
-
-## Business Logic Implementation
-- Customer segmentation logic
-- Product segmentation logic
-- Revenue categorization
-- Age group classification
-- Customer lifecycle analysis
-
----
-
 ## Reporting Optimization
 The reporting views were designed to:
 - Simplify dashboard development
@@ -283,9 +249,7 @@ The reporting views were designed to:
 | Tool | Purpose |
 |---|---|
 | SQL Server | Database & Analysis |
-| T-SQL | Query Development |
-| GitHub | Version Control |
-| Power BI | Dashboard Visualization |
+| Query Development | | GitHub | 
 
 ---
 
@@ -303,28 +267,6 @@ Through this project, I improved my understanding of:
 - Preparing datasets for BI dashboards
 
 ---
-
-# Future Improvements
-
-## Customer Analytics
-- Add Customer Lifetime Value (CLV)
-- Add churn analysis
-- Add repeat purchase rate
-- Add customer ranking using window functions
-
----
-
-## Product Analytics
-- Add profit margin analysis
-- Add YoY sales growth
-- Add seasonal trend analysis
-- Add category-level rankings
-
----
-
-# Author
-
-**Your Name**
 
 Data Analytics Enthusiast  
 SQL | Power BI | Data Analysis
